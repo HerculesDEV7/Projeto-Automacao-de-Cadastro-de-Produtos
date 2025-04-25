@@ -3,15 +3,15 @@
 Este projeto tem como objetivo automatizar o processo de preenchimento de dados em formulários de cadastro de produtos. Utilizando Python e interagindo com a interface gráfica do usuário, os dados são lidos a partir de um arquivo CSV e as ações necessárias para preencher os campos de cadastro são realizadas automaticamente.
 
 ## Recursos do Projeto
-Automação com Python: Utiliza scripts otimizados para interagir com a interface gráfica.
+- Automação com Python: Utiliza scripts otimizados para interagir com a interface gráfica.
 
-Integração com banco de dados CSV: Lê e processa os dados diretamente de um arquivo CSV.
+- Integração com banco de dados CSV: Lê e processa os dados diretamente de um arquivo CSV.
 
-Eficiência e Precisão: Reduz o tempo necessário para o cadastro e minimiza erros humanos.
+- Eficiência e Precisão: Reduz o tempo necessário para o cadastro e minimiza erros humanos.
 
 ## Benefícios
-Economia de tempo no processo de cadastro.
+- Economia de tempo no processo de cadastro.
 
-Redução de erros no preenchimento dos formulários.
+- Redução de erros no preenchimento dos formulários.
 
-Maior eficiência em processos repetitivos.
+- Maior eficiência em processos repetitivos.
