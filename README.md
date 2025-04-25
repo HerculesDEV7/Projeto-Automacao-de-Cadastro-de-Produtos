@@ -1,3 +1,17 @@
 # Automacao Cadastro de Produto - RPA
 
-Neste projeto, desenvolvi uma solução para automatizar o preenchimento de formulários de cadastro de produtos. A ideia é simplificar um processo manual que consome muito tempo e pode levar a erros. Com essa solução, os usuários poderão integrar facilmente com sistemas externos para preencher automaticamente os formulários, reduzindo significativamente o esforço necessário. Além disso, implementei validações inteligentes para garantir a precisão dos dados inseridos. O objetivo é economizar tempo e tornar o processo de cadastro de produtos mais eficiente para nossos clientes.
+Este projeto tem como objetivo automatizar o processo de preenchimento de dados em formulários de cadastro de produtos. Utilizando Python e interagindo com a interface gráfica do usuário, os dados são lidos a partir de um arquivo CSV e as ações necessárias para preencher os campos de cadastro são realizadas automaticamente.
+
+## Recursos do Projeto
+Automação com Python: Utiliza scripts otimizados para interagir com a interface gráfica.
+
+Integração com banco de dados CSV: Lê e processa os dados diretamente de um arquivo CSV.
+
+Eficiência e Precisão: Reduz o tempo necessário para o cadastro e minimiza erros humanos.
+
+## Benefícios
+Economia de tempo no processo de cadastro.
+
+Redução de erros no preenchimento dos formulários.
+
+Maior eficiência em processos repetitivos.
